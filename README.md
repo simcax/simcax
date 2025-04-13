@@ -20,9 +20,9 @@ I'm a tech enthusiast focused on building scalable web applications and explorin
 - Web and IT services for [Lejre Fitness](https://www.lejre.fitness)
 
 ## 📝 Blog & Websites
-I document my adventures in tech at [skov.codes](https://www.skov.codes)
-I also created fun web apps like [isitfiveoclock.com](https://www.isitfiveoclock.com)
-
+- I document my adventures in tech at [skov.codes](https://www.skov.codes)
+- I also created fun web apps like [isitfiveoclock.com](https://www.isitfiveoclock.com)
+- Bluesky: [🦋 @simcax.dk](https://bsky.app/profile/simcax.dk)
 
 ## 📫 Connect
 - Email: carsten@skov.codes
