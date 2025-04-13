@@ -22,11 +22,11 @@ I'm a tech enthusiast focused on building scalable web applications and explorin
 ## 📝 Blog & Websites
 - I document my adventures in tech at [skov.codes](https://www.skov.codes)
 - I also created fun web apps like [isitfiveoclock.com](https://www.isitfiveoclock.com)
-- Bluesky: [🦋 @simcax.dk](https://bsky.app/profile/simcax.dk)
 
 ## 📫 Connect
 - Email: carsten@skov.codes
 - GitHub: [@simcax](https://github.com/simcax)
+- Bluesky: [🦋 @simcax.dk](https://bsky.app/profile/simcax.dk)
 
 _Always looking to learn and give back to the open source community!_
 <!---
